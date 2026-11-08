@@ -27,7 +27,7 @@ The project Wiki provides the expanded documentation for the client and project.
 
 - [Wiki Home](https://github.com/rameezahmed87/VCC_3/wiki/Home)
 - [Installation and Setup](https://github.com/rameezahmed87/VCC_3/wiki/Installation%E2%80%90and%E2%80%90Setup)
-- [Usage and Features](https://github.com/rameezahmed87/VCC_3/wiki/Usage-and-Features)
+- [Usage and Features](https://github.com/rameezahmed87/VCC_3/wiki/Usage%E2%80%90and%E2%80%90Features)
 - [Contributing and Credits](https://github.com/rameezahmed87/VCC_3/wiki/Contributing-and-Credits)
 
 ## Installation
@@ -38,7 +38,7 @@ For the project documentation, begin at the [Wiki Home](https://github.com/ramee
 
 ## Usage
 
-Kingdom Quest Interactive is designed as a fantasy learning experience. Players will be able to explore locations, customize characters, undertake quests, solve puzzles, collect items, and review their achievements. Detailed feature descriptions and user guidance are provided in the [Usage and Features](https://github.com/rameezahmed87/VCC_3/wiki/Usage-and-Features) Wiki page.
+Kingdom Quest Interactive is designed as a fantasy learning experience. Players will be able to explore locations, customize characters, undertake quests, solve puzzles, collect items, and review their achievements. Detailed feature descriptions and user guidance are provided in the [Usage and Features](https://github.com/rameezahmed87/VCC_3/wiki/Usage%E2%80%90and%E2%80%90Features) Wiki page.
 
 ## Contributing
 
