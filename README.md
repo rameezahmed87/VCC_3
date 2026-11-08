@@ -26,7 +26,7 @@ Our mission is to combine imagination, learning, and adventure into memorable di
 The project Wiki provides the expanded documentation for the client and project.
 
 - [Wiki Home](https://github.com/rameezahmed87/VCC_3/wiki/Home)
-- [Installation and Setup](https://github.com/rameezahmed87/VCC_3/wiki/Installation-and-Setup)
+- [Installation and Setup](https://github.com/rameezahmed87/VCC_3/wiki/Installation%E2%80%90and%E2%80%90Setup)
 - [Usage and Features](https://github.com/rameezahmed87/VCC_3/wiki/Usage-and-Features)
 - [Contributing and Credits](https://github.com/rameezahmed87/VCC_3/wiki/Contributing-and-Credits)
 
