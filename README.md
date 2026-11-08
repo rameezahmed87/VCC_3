@@ -25,20 +25,20 @@ Our mission is to combine imagination, learning, and adventure into memorable di
 
 The project Wiki provides the expanded documentation for the client and project.
 
-- [Wiki Home](../../wiki/Home)
-- [Installation and Setup](../../wiki/Installation-and-Setup)
-- [Usage and Features](../../wiki/Usage-and-Features)
-- [Contributing and Credits](../../wiki/Contributing-and-Credits)
+- [Wiki Home](https://github.com/rameezahmed87/VCC_3/wiki/Home)
+- [Installation and Setup](https://github.com/rameezahmed87/VCC_3/wiki/Installation-and-Setup)
+- [Usage and Features](https://github.com/rameezahmed87/VCC_3/wiki/Usage-and-Features)
+- [Contributing and Credits](https://github.com/rameezahmed87/VCC_3/wiki/Contributing-and-Credits)
 
 ## Installation
 
 This repository currently contains the project's introductory documentation. The exact software requirements and installation commands depend on the implementation platform and development tools selected for the project. Those details will be documented in the Wiki when the implementation environment is confirmed.
 
-For the project documentation, begin at the [Wiki Home](../../wiki/Home).
+For the project documentation, begin at the [Wiki Home](https://github.com/rameezahmed87/VCC_3/wiki/Home).
 
 ## Usage
 
-Kingdom Quest Interactive is designed as a fantasy learning experience. Players will be able to explore locations, customize characters, undertake quests, solve puzzles, collect items, and review their achievements. Detailed feature descriptions and user guidance are provided in the [Usage and Features](../../wiki/Usage-and-Features) Wiki page.
+Kingdom Quest Interactive is designed as a fantasy learning experience. Players will be able to explore locations, customize characters, undertake quests, solve puzzles, collect items, and review their achievements. Detailed feature descriptions and user guidance are provided in the [Usage and Features](https://github.com/rameezahmed87/VCC_3/wiki/Usage-and-Features) Wiki page.
 
 ## Contributing
 
@@ -51,7 +51,7 @@ Contributions should support the project's educational, creative, and interactiv
 5. Test implemented features before submitting changes.
 6. Submit proposed changes through a pull request with a clear summary.
 
-See [Contributing and Credits](../../wiki/Contributing-and-Credits) for the expanded guidelines.
+See [Contributing and Credits](https://github.com/rameezahmed87/VCC_3/wiki/Contributing-and-Credits) for the expanded guidelines.
 
 ## Credits
 
@@ -66,4 +66,4 @@ This project is distributed under the [MIT License](LICENSE).
 - **Project Name:** Kingdom Quest Interactive
 - **Industry:** Fantasy Gaming & Education
 - **Repository:** [rameezahmed87/VCC_3](https://github.com/rameezahmed87/VCC_3)
-- **Wiki:** [Kingdom Quest Interactive Wiki](../../wiki)
+- **Wiki:** [Kingdom Quest Interactive Wiki](https://github.com/rameezahmed87/VCC_3/wiki)
