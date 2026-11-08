@@ -28,7 +28,7 @@ The project Wiki provides the expanded documentation for the client and project.
 - [Wiki Home](https://github.com/rameezahmed87/VCC_3/wiki/Home)
 - [Installation and Setup](https://github.com/rameezahmed87/VCC_3/wiki/Installation%E2%80%90and%E2%80%90Setup)
 - [Usage and Features](https://github.com/rameezahmed87/VCC_3/wiki/Usage%E2%80%90and%E2%80%90Features)
-- [Contributing and Credits](https://github.com/rameezahmed87/VCC_3/wiki/Contributing-and-Credits)
+- [Contributing and Credits](https://github.com/rameezahmed87/VCC_3/wiki/Contributing%E2%80%90and%E2%80%90Credits)
 
 ## Installation
 
@@ -51,7 +51,7 @@ Contributions should support the project's educational, creative, and interactiv
 5. Test implemented features before submitting changes.
 6. Submit proposed changes through a pull request with a clear summary.
 
-See [Contributing and Credits](https://github.com/rameezahmed87/VCC_3/wiki/Contributing-and-Credits) for the expanded guidelines.
+See [Contributing and Credits](https://github.com/rameezahmed87/VCC_3/wiki/Contributing%E2%80%90and%E2%80%90Credits) for the expanded guidelines.
 
 ## Credits
 
